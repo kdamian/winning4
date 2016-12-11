@@ -1,0 +1,21 @@
+body {
+    padding: 10px;
+}
+
+.field {
+    width: 100px;
+    height: 100px;
+    background: url(images/none.svg);
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background: url(images/red.svg);
+}
+
+.blue {
+    width: 100px;
+    height: 100px;
+    background: url(images/blue.svg);
+}
