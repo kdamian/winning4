@@ -17,6 +17,9 @@ function counter() {
 //##############################################################
 //##############################################################
 
+var j = 'it does not make sense';
+var k = 'it does not make sense x2';
+
 // function adds class with red circle
 function redField() {
   $(document).ready(function() {
